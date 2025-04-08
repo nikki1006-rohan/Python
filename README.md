@@ -59,8 +59,8 @@ Cleaned dataset saved as Cleaned_WalmartRetailSales.csv
 The MySQL table can be created manually or by executing the SQL file (optional to include in the repo).
 
 ## Author
-Name: Your Name
-GitHub: yourusername
+Name: Nikita
+GitHub: satoskar
 
 ## License
 This project is licensed under the MIT License.
