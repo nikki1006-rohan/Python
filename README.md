@@ -53,22 +53,19 @@ Analysis Validation:
 
 Cross-checked sales aggregation and growth rate calculations.
 ----
-Deployment
+## Deployment
 Database: MySQL
-
 Cleaned dataset saved as Cleaned_WalmartRetailSales.csv
-
 The MySQL table can be created manually or by executing the SQL file (optional to include in the repo).
 
-Author
+## Author
 Name: Your Name
-
 GitHub: yourusername
 
-License
+## License
 This project is licensed under the MIT License.
 
-Acknowledgement
+## Acknowledgement
 Walmart Retail Sales dataset was used for educational purposes.
 
 Special thanks to open-source contributors for libraries like Pandas and SQLAlchemy.
