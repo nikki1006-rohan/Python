@@ -22,23 +22,19 @@ MySQL database setup with appropriate user credentials
 
 ### Installing
 
-Clone the repository:
-
-bash
-Copy
-Edit
+1. Clone the repository:
+   
 git clone https://github.com/yourusername/walmart-retail-sales.git
 cd walmart-retail-sales
-Install the required Python packages:
 
-bash
-Copy
-Edit
+2.  Install the required Python packages:
+   
 pip install pandas pymysql sqlalchemy
-Set up your MySQL database and import the cleaned data if needed.
 
-Running the Tests
-Breakdown of Tests
+3. Set up your MySQL database and import the cleaned data if needed.
+----
+## Running the Tests
+### Breakdown of Tests
 Data Quality Checks:
 
 Checked for missing values.
@@ -56,7 +52,7 @@ Queried database to ensure successful upload and correct data retrieval.
 Analysis Validation:
 
 Cross-checked sales aggregation and growth rate calculations.
-
+----
 Deployment
 Database: MySQL
 
