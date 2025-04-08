@@ -1,8 +1,8 @@
 # Python
-Walmart Retail Sales Analysis
+# Walmart Retail Sales Analysis
 A data cleaning and exploratory analysis project focusing on Walmart's retail sales data. The project involves cleaning raw sales data, saving it into a MySQL database, and analyzing the total sales and sales growth rate by state and year.
 
-Getting Started
+###Getting Started
 Prerequisites
 Python 3.x
 
