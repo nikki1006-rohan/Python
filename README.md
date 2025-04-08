@@ -20,7 +20,8 @@ Excel file: WalmartRetailSales.xlsx
 
 MySQL database setup with appropriate user credentials
 
-Installing
+### Installing
+
 Clone the repository:
 
 bash
